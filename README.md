@@ -6,7 +6,7 @@
 
 </div>
 
-
+---
 
 --- My Name is ***Harsh Khandal***, and I'm a Student based in India. I'm also a proud Bug Bounty Hunter, with expertise in robotics, electronics, and cybersecurity.
 <br>
