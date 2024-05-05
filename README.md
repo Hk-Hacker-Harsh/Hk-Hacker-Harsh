@@ -43,6 +43,9 @@ For any inquiry, you can reach me through my Social Media presence or my email g
 I'm always ready to learn and give my 150% in everything.
 
 ```
+
+---
+***
 <!--
 **Hk-Hacker-Harsh/Hk-Hacker-Harsh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
