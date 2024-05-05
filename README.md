@@ -1,8 +1,9 @@
 # Hello Friends👋
 
+<div>
 <img align="left" src="https://github.com/Hk-Hacker-Harsh/Hk-Hacker-Harsh/blob/Root/Files/gif2.gif" width="248" height="200" />
 <img align="left" height="260vh" src="https://upload.wikimedia.org/wikipedia/commons/3/3d/1_120_transparent.png">
-
+</div>
   
 ```
 My Name is Harsh Khandal, and I'm a Student based in India. I'm also a proud Bug Bounty Hunter, with expertise in robotics, electronics, and cybersecurity.
