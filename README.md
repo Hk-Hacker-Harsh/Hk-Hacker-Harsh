@@ -13,6 +13,9 @@ $ I'm driven to acquire knowledge and constantly evolve in both the digital and 
 <br>
 
 <img align="left" src="https://github.com/Hk-Hacker-Harsh/Hk-Hacker-Harsh/blob/Root/Files/gif1.gif" width="480" height="270" />
+
+<br>
+
 <img src="https://github.com/Hk-Hacker-Harsh/Hk-Hacker-Harsh/blob/Root/Files/gif2.gif" width="248" height="200" />
 <!--
 **Hk-Hacker-Harsh/Hk-Hacker-Harsh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
