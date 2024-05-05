@@ -20,7 +20,6 @@ Contact : codingwithme7@gmail.com
 
 <div>
 <img align="right" src="https://github.com/Hk-Hacker-Harsh/Hk-Hacker-Harsh/blob/Root/Files/gif1.gif" width="480" height="270" />
-<img align="right" height="260vh" src="https://upload.wikimedia.org/wikipedia/commons/3/3d/1_120_transparent.png">
 </div>
 
 
