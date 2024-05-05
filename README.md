@@ -1,7 +1,10 @@
 # Hello Friends👋
 
 ```
-My name is Harsh Khandal, and I'm a student based in India. I'm also a proud Bug Bounty Hunter, with expertise in robotics, electronics, and cybersecurity. I love the thrill of unraveling digital complexities and constantly seek opportunities to turn my skills into tangible rewards. Along with my technical pursuits, I'm also money-minded and passionate about technology. I'm driven to acquire knowledge and constantly evolve in both the digital and financial realms, making me a multifaceted individual.
+My name is Harsh Khandal, and I'm a student based in India. I'm also a proud Bug Bounty Hunter, with expertise in robotics, electronics, and cybersecurity.
+I love the thrill of unraveling digital complexities and constantly seek opportunities to turn my skills into tangible rewards.
+Along with my technical pursuits, I'm also money-minded and passionate about technology.
+I'm driven to acquire knowledge and constantly evolve in both the digital and financial realms, making me a multifaceted individual.
 ```
 
 <br>
