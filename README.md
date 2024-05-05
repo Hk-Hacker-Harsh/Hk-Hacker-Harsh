@@ -23,9 +23,8 @@ Contact : codingwithme7@gmail.com
   <img align="left" height="260vh" src="https://upload.wikimedia.org/wikipedia/commons/3/3d/1_120_transparent.png">
 </div>
 
-<p>
-  All Social Media Accounts : [Linktree](https://linktr.ee/Hk.Hacker)
-</p>
+
+All Social Media Accounts : [Linktree](https://linktr.ee/Hk.Hacker)
 
 <br>
 <br>
