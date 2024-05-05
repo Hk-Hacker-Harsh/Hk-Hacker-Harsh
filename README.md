@@ -12,9 +12,11 @@ I love the thrill of unraveling digital complexities and constantly seek opportu
 Along with my technical pursuits, I'm also money-minded and passionate about technology.
 
 I'm driven to acquire knowledge and constantly evolve in both the digital and financial realms, making me a multifaceted individual.
-```
 
----
+Contact : codingwithme7@gmail.com
+All Social Media Accounts : [Linktree](https://linktr.ee/Hk.Hacker)
+
+```
 
 <br>
 <img align="right" src="https://github.com/Hk-Hacker-Harsh/Hk-Hacker-Harsh/blob/Root/Files/gif1.gif" width="480" height="270" />
@@ -25,9 +27,9 @@ I'm driven to acquire knowledge and constantly evolve in both the digital and fi
 ---
 <div>
 <p align="left">
-All Social Media Accounts : [Linktree](https://linktr.ee/Hk.Hacker)
+
 <br>
-Contact : codingwithme7@gmail.com
+
 </div>
 <!--
 **Hk-Hacker-Harsh/Hk-Hacker-Harsh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
