@@ -25,11 +25,14 @@ I'm driven to acquire knowledge and constantly evolve in both the digital and fi
 <img align="left" height="260vh" src="https://upload.wikimedia.org/wikipedia/commons/3/3d/1_120_transparent.png">
 
 <br>
+<br>
 
+<div>
 <p align="left">
 All Social Media Accounts : [Linktree](https://linktr.ee/Hk.Hacker)
 <br>
 Contact : codingwithme7@gmail.com
+</div>
 <!--
 **Hk-Hacker-Harsh/Hk-Hacker-Harsh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
