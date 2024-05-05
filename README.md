@@ -22,7 +22,7 @@ I'm driven to acquire knowledge and constantly evolve in both the digital and fi
 
 <div>
   <img align="right" src="https://github.com/Hk-Hacker-Harsh/Hk-Hacker-Harsh/blob/Root/Files/gif1.gif" width="480" height="270" />
-  <img align="left" height="248vh" src="https://upload.wikimedia.org/wikipedia/commons/3/3d/1_120_transparent.png">
+  <img align="right" height="448vh" src="https://upload.wikimedia.org/wikipedia/commons/3/3d/1_120_transparent.png">
 </div>
 
 
