@@ -27,12 +27,10 @@ I'm driven to acquire knowledge and constantly evolve in both the digital and fi
 
 ---
 
+***
 
 All Social Media Accounts : [Linktree](https://linktr.ee/Hk.Hacker)
-
-<font color="red">
-  Contact : codingwithme7@gmail.com
-</font>
+Contact : codingwithme7@gmail.com
 
 <!--
 **Hk-Hacker-Harsh/Hk-Hacker-Harsh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
