@@ -14,8 +14,6 @@ Along with my technical pursuits, I'm also money-minded and passionate about tec
 
 I'm driven to acquire knowledge and constantly evolve in both the digital and financial realms, making me a multifaceted individual.
 
-Contact : codingwithme7@gmail.com
-
 ```
 
 <div>
@@ -25,6 +23,7 @@ Contact : codingwithme7@gmail.com
 <br>
 
 All Social Media Accounts : [Linktree](https://linktr.ee/Hk.Hacker)
+Contact : codingwithme7@gmail.com
 
 
 <!--
