@@ -3,6 +3,7 @@
 <div>
 <img align="left" src="https://github.com/Hk-Hacker-Harsh/Hk-Hacker-Harsh/blob/Root/Files/gif2.gif" width="248" height="200" />
 </div>
+<br>
 
 ```
 $ My name is Harsh Khandal, and I'm a student based in India. I'm also a proud Bug Bounty Hunter, with expertise in robotics, electronics, and cybersecurity.
@@ -12,6 +13,7 @@ $ I love the thrill of unraveling digital complexities and constantly seek oppor
 $ Along with my technical pursuits, I'm also money-minded and passionate about technology.
 
 $ I'm driven to acquire knowledge and constantly evolve in both the digital and financial realms, making me a multifaceted individual.
+
 ```
 
 <br>
@@ -19,7 +21,7 @@ $ I'm driven to acquire knowledge and constantly evolve in both the digital and 
 
 <br>
 
-<img align="left" src="https://github.com/Hk-Hacker-Harsh/Hk-Hacker-Harsh/blob/Root/Files/gif1.gif" width="480" height="270" />
+<img align="center" src="https://github.com/Hk-Hacker-Harsh/Hk-Hacker-Harsh/blob/Root/Files/gif1.gif" width="480" height="270" />
 
 <br>
 
