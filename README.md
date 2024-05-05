@@ -27,7 +27,8 @@ I'm driven to acquire knowledge and constantly evolve in both the digital and fi
 
 <br>
 
-[All Social Media (Linktr,ee )](https://linktr.ee/Hk.Hacker)
+[All Social Media(Linktr.ee)](https://linktr.ee/Hk.Hacker)
+Contact : codingwithme7@gmail.com
 <!--
 **Hk-Hacker-Harsh/Hk-Hacker-Harsh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
