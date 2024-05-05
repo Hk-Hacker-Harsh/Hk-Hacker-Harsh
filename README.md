@@ -31,9 +31,9 @@ I'm driven to acquire knowledge and constantly evolve in both the digital and fi
 
 
 
-&nbps; All Social Media Accounts : [Linktree](https://linktr.ee/Hk.Hacker)
+  All Social Media Accounts : [Linktree](https://linktr.ee/Hk.Hacker)
 <br>
-&nbps; Contact : codingwithme7@gmail.com
+  Contact : codingwithme7@gmail.com
 
 ```
 Currently, I'm learning Cybersecurity and Ethical Hacking, and meanwhile learn different languages and create Projects.
