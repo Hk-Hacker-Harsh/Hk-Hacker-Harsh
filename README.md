@@ -8,7 +8,7 @@
 
 
 
--My Name is ***Harsh Khandal***, and I'm a Student based in India. I'm also a proud Bug Bounty Hunter, with expertise in robotics, electronics, and cybersecurity.
+--- My Name is ***Harsh Khandal***, and I'm a Student based in India. I'm also a proud Bug Bounty Hunter, with expertise in robotics, electronics, and cybersecurity.
 <br>
 -I love the thrill of unraveling digital complexities and constantly seek opportunities to turn my skills into tangible rewards.
 <br>
