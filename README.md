@@ -1,7 +1,7 @@
 # Hello Friends👋
 
 <div>
-  <img align="left" src="https://github.com/Hk-Hacker-Harsh/Hk-Hacker-Harsh/blob/Root/Files/gif2.gif" width="250" height="215" />
+  <img align="left" src="https://github.com/Hk-Hacker-Harsh/Hk-Hacker-Harsh/blob/Root/Files/gif2.gif" width="250" height="225" />
   <img align="left" height="248vh" src="https://upload.wikimedia.org/wikipedia/commons/3/3d/1_120_transparent.png">
 </div>
 
