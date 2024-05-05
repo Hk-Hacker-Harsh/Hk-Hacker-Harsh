@@ -9,6 +9,7 @@
 
 
 <font color="red">
+  
 ```
 My Name is Harsh Khandal, and I'm a Student based in India. I'm also a proud Bug Bounty Hunter, with expertise in robotics, electronics, and cybersecurity.
 
@@ -18,6 +19,7 @@ Along with my technical pursuits, I'm also money-minded and passionate about tec
 
 I'm driven to acquire knowledge and constantly evolve in both the digital and financial realms, making me a multifaceted individual.
 ```
+
 </font>
 ---
 
