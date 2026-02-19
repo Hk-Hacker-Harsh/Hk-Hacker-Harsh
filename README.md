@@ -1,48 +1,58 @@
-# Hello Friends👋
+# ⚡ Welcome to my Digital Playground!
 
-<div>
-  <img align="left" src="https://github.com/Hk-Hacker-Harsh/Hk-Hacker-Harsh/blob/Root/Files/gif2.gif" width="250" height="225" />
-  <img align="left" height="248vh" src="https://upload.wikimedia.org/wikipedia/commons/3/3d/1_120_transparent.png">
+<div align="center">
+  <img src="https://github.com/Hk-Hacker-Harsh/Hk-Hacker-Harsh/blob/Root/Files/gif2.gif?raw=true" width="48%" />
+  <img src="https://github.com/Hk-Hacker-Harsh/Hk-Hacker-Harsh/blob/Root/Files/gif1.gif?raw=true" width="48%" />
 </div>
 
 ---
 
-```
-My Name is Harsh Khandal, and I'm a Student based in India. I'm also a proud Bug Bounty Hunter, with expertise in robotics, electronics, and cybersecurity.
+### 👋 Hello Friends, I'm Harsh Khandal
 
-And Yeah, I'm a Computer Nerd.
+I'm a student based in **India** with a deep passion for the digital frontier. By day, I'm navigating my studies at **IIT Madras**, and by night, I'm a **Bug Bounty Hunter** and a self-proclaimed **Computer Nerd**.
 
-I love the thrill of unraveling digital complexities and constantly seek opportunities to turn my skills into tangible rewards.
+> "I love the thrill of unraveling digital complexities and turning skills into tangible rewards."
 
-Along with my technical pursuits, I'm also money-minded and passionate about technology.
+- 🛡️ **Cybersecurity Enthusiast**: Passionate about Ethical Hacking and Bug Bounties.
+- 🤖 **Tech Explorer**: Expertise in Robotics, Electronics, and AI Automation.
+- 💡 **Multifaceted**: Money-minded, tech-driven, and always giving 150% to every project.
 
-I'm driven to acquire knowledge and constantly evolve in both the digital and financial realms, making me a multifaceted individual.
+---
 
-```
+### 🛠️ My Arsenal (Tech Stack)
 
-<div>
-  <img align="right" src="https://github.com/Hk-Hacker-Harsh/Hk-Hacker-Harsh/blob/Root/Files/gif1.gif" width="460" height="250" />
-  <img align="right" height="270vh" src="https://upload.wikimedia.org/wikipedia/commons/3/3d/1_120_transparent.png">
+<div align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/n8n-FF6D5B?style=for-the-badge&logo=n8n&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
 </div>
 
+---
 
+### 📊 GitHub Stats
 
-***
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Hk-Hacker-Harsh&show_icons=true&theme=tokyonight&count_private=true" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Hk-Hacker-Harsh&theme=tokyonight" width="48%" />
+</div>
 
+---
 
+### 🌐 Connect With Me
 
-  All Social Media Accounts : [Linktree](https://linktr.ee/Hk.Hacker)
-<br>
-  Contact : codingwithme7@gmail.com
+I'm always open to inquiries, collaborations, or just a chat about technology and finance!
 
-```
-Currently, I'm learning Cybersecurity and Ethical Hacking, and meanwhile learn different languages and create Projects.
+- 🔗 **Social Hub:** [Linktree](https://linktr.ee/Hk.Hacker)
+- ✉️ **Email:** [codingwithme7@gmail.com](mailto:codingwithme7@gmail.com)
+- 🖥️ **Portfolio:** [harshkhandal.me](https://harshkhandal.me)
 
-For any inquiry, you can reach me through my Social Media presence or my email given above.
+---
 
-I'm always ready to learn and give my 150% in everything.
-
-```
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00f0ff&height=100&section=footer" width="100%"/>
+</div>
 
 ---
 ***
