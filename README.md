@@ -1,7 +1,7 @@
 # ⚡ Welcome to my Digital Playground!
 
 <div align="center">
-  <img src="https://github.com/Hk-Hacker-Harsh/Hk-Hacker-Harsh/blob/Root/Files/gif2.gif?raw=true" width="60%" />
+  <img src="https://github.com/Hk-Hacker-Harsh/Hk-Hacker-Harsh/blob/Root/Files/gif2.gif?raw=true" width="40%" />
 </div>
 
 ---
@@ -20,7 +20,7 @@ I'm a student based in **India** with a deep passion for the digital frontier. B
 
 ### 🛡️ Cybersecurity Standing
 <div align="center">
-  <iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=1139505" style='border:none; width:400px; height:150px;'></iframe>
+  <img src="https://tryhackme-badges.s3.amazonaws.com/Hk.Hacker.png" alt="Your Image Badge" />
 </div>
 
 ---
@@ -49,8 +49,7 @@ I'm a student based in **India** with a deep passion for the digital frontier. B
 
 ### 📊 Code Analysis
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hk-Hacker-Harsh&layout=compact&theme=tokyonight&hide_border=true" width="45%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Hk-Hacker-Harsh&theme=tokyonight&hide_border=true" width="45%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Hk-Hacker-Harsh&theme=tokyonight&hide_border=true" width="70%" />
 </div>
 
 ---
@@ -59,7 +58,7 @@ I'm a student based in **India** with a deep passion for the digital frontier. B
 
 - 🔗 **Social Hub:** [Linktree](https://linktr.ee/Hk..Hacker)
 - ✉️ **Email:** [codingwithme7@gmail.com](mailto:codingwithme7@gmail.com)
-- 🖥️ **Portfolio:** [harshkhandal.me](https://harshkhandal.me)
+- 🖥️ **Portfolio:** [https://harshkhandal.me](https://harshkhandal.me)
 
 ---
 
